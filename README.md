@@ -23,9 +23,11 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-- waterfall
+- waterfall is order approach in each phase. eg requirement, then design, then implementention.
+- agile is breaking it down to phases and empasizing continuous  collaboratin and  improvement
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+- software developer  is the person who writes code and implemements software solutions.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.

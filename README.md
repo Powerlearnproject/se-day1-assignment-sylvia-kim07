@@ -28,21 +28,31 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 - software developer  is the person who writes code and implemements software solutions.
+- quality assurance engineer  is the person who ensures quality by designing and excecuing tests
+- project manager is a person who oversees  the planning, execution  and delivery of software projects.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+- IDEs enhance productivity by providing tools susch asdebugging , code testing and code writting examples are visual studio and eclipse.
+- VCS help in tracking changes in the source code and fostering collaboration  among team members examplse are Git and subversion.
 
-
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenge
+- tight deadlines distribute work among team memberseffectively  and prioritization of work
+- technical debt, dont take shortcuts and  be as thorough as possible, while keeping the timeline and use agile methodolagies
+- changing requirements, coomunicate effectively and regular reassesment of project goals
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-
+- unit is  testing individual components of the software
+- integration is testing interactionsbetween different components and subsystems
+- system is testing the system as a whole
+- cceptance istesting the software against the requirements to ensure it meetsthe users needs
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+prompt engineering is  crafting questions or statements to get the best possible response from AI . is is important because it helps us avoid getting vague and confusing answers
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+example vague prompt : what does old art look like?
+example of improved prompt : what does art before the 1400 AD renneissance look like ?
+the improved prompt is better because i have clearly specified the time period of the art im looking for.
